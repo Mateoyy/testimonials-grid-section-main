@@ -214,13 +214,11 @@ body {
 @media (min-width: 1440px) {
 
 	.pack {
-	width: 100%;
-	/* height: 1000px; */
+	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;	
-	margin: auto auto;
-	/* background-color: black; */
+
 	}
 	.container {
 		width: 1110px;
